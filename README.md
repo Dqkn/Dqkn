@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dqkn&show_icons=true&locale=en" alt="dqkn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqkn&" alt="dqkn" /></p>
+
+![snake gif](https://github.com/Dqkn/Dqkn/blob/output/github-contribution-grid-snake.gif)

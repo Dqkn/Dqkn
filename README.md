@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dqkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dqkn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dqkn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dqkn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -86,11 +86,11 @@
 
 <p align="center">
   <a href="https://github.com/Dqkn/course-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dqkn&repo=course-scheduler&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dqkn&repo=course-scheduler&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dqkn/TR_AracListesiDataSet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dqkn&repo=TR_AracListesiDataSet&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dqkn&repo=TR_AracListesiDataSet&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 

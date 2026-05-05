@@ -1,11 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER / TYPING SVG                            -->
+<!--                     CAPSULE RENDER HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&random=false&width=650&height=100&lines=Hey+%F0%9F%91%8B+I'm+Dogukan+Soydas;Backend+Developer+%7C+CS+Student+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dogukan%20Soydas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20CS%20Student%20%F0%9F%87%B9%F0%9F%87%B7&descSize=18&descAlignY=52&descColor=fff" width="100%"/>
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ismail-do%C4%9Fukan-soyda%C5%9F/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dqkn&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              ABOUT ME                                    -->
@@ -36,12 +37,7 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Dogukan Soydas
-location: Ankara, Turkey
-education: Baskent University — Computer Engineering
-role: Backend Developer
-```
+<img align="right" alt="Coding" width="280" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444c6c4a6736516365586f6771304a4f6e525651414f5765684f43625261394f585639534548476b5962534446482d736e745139726b486931694e2f636f6e74656e742e676966">
 
 - 🎓 Studying **Computer Engineering** at **Baskent University**
 - 🔭 Currently working on **Java** and **TypeScript** projects
@@ -50,7 +46,9 @@ role: Backend Developer
 - 📊 Passionate about **datasets, automation systems & backend architecture**
 - 📫 Reach me at **work.dgknsyds@gmail.com**
 
----
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                                      -->
@@ -62,36 +60,48 @@ role: Backend Developer
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,typescript,javascript,c,cpp,cs,kotlin,html,css" />
+      <img src="https://skillicons.dev/icons?i=java,typescript,javascript,c,cpp,cs,kotlin,html,css&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><b>Frameworks</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,qt,react" />
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,qt,react&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center" width="140"><b>Design</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma" />
+      <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" />
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dqkn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB STATS                                    -->
@@ -109,11 +119,7 @@ role: Backend Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dqkn&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dqkn&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6C63FF&point=FFFFFF" alt="Activity Graph" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        FEATURED PROJECTS                                 -->
@@ -131,7 +137,19 @@ role: Backend Developer
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        RANDOM DEV QUOTE                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        SNAKE ANIMATION                                   -->
@@ -147,7 +165,7 @@ role: Backend Developer
   </picture>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                        TURKISH VERSION                                   -->
@@ -203,8 +221,7 @@ role: Backend Developer
 
 </details>
 
----
-
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>

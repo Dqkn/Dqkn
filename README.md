@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dogukan%20Soydas&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20CS%20Student%20%F0%9F%87%B9%F0%9F%87%B7&descSize=18&descAlignY=52&descColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dogukan%20Soydas&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20CS%20Student%20%F0%9F%87%B9%F0%9F%87%B7&descSize=18&descAlignY=52&descColor=fff" width="100%"/>
 </p>
 
 <!-- SOCIAL BADGES -->
